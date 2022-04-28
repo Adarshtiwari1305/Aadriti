@@ -1,15 +1,15 @@
-<h1 align="center"><b>❤️ DR VICTOR MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ AADRITI MUSIC BOT ❤️</b></h1>
 
-<h4 align="center">DR VICTOR Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Adarsh Tiwari...</h4>
+<h4 align="center">AADRITI Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Adarsh Tiwari...</h4>
 
 <p align="center"><a href="https://t.me/Shaitaan_bacchaa"><img src="https://telegra.ph/file/169a05691d278557e26ba.png" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/Adarshtiwari1305/oommffooooo/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffooooo"> <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/oommffooooo?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffooooo/commits/prince"> <img src="https://img.shields.io/github/last-commit/Adarshtiwari1305/oommffooooo?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffooooo/issues"> <img src="https://img.shields.io/github/issues/Adarshtiwari1305/oommffooooo?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Adarshtiwari1305/oommffooooo/network/members"> <img src="https://img.shields.io/github/forks/Adarshtiwari1305/oommffooooo?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/Adarshtiwari1305/Aadriti/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadriti"> <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/Aadriti?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadriti/commits/prince"> <img src="https://img.shields.io/github/last-commit/Adarshtiwari1305/Aadriti?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadriti/issues"> <img src="https://img.shields.io/github/issues/Adarshtiwari1305/Aadriti?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadriti/network/members"> <img src="https://img.shields.io/github/forks/Adarshtiwari1305/Aadriti?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -22,8 +22,8 @@
 ## Features ❤️”®
 
 - Gban Added By [Me](https://t.me/Aadriti_fed)
-- Automatically Thambnail Generator By [Team Yukki](https://github.com/TeamYukki)
-- Customize Button Added [Me](https://t.me/Hitler_fed)
+- Automatically Thambnail Generator By [Adarsh tiwari](https://github.com/Adarshtiwari1305)
+- Customize Button Added [Me](https://t.me/Aadriti_fed)
 - Channel Stream Added 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
